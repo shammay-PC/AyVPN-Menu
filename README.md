@@ -52,7 +52,7 @@ bash <(curl -sSL shammay.ir/ayvpn-menu)
 
 **Direct Link (from GitHub):**
 ```bash
-bash <(curl -sSL [https://raw.githubusercontent.com/shammay-PC/AyVPN-Menu/main/ayvpn-menu.sh](https://raw.githubusercontent.com/shammay-PC/AyVPN-Menu/main/ayvpn-menu.sh))
+bash <(curl -sSL https://raw.githubusercontent.com/shammay-PC/AyVPN-Menu/main/AyVPN-Menu.sh)
 ```
 
 After the first run and installation, you can open the menu anytime by just typing:
